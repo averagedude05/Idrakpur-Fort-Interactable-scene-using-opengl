@@ -51,7 +51,4 @@ A 2D computer graphics simulation of the historical **Idrakpur Fort** created us
 * Code::Blocks, Visual Studio, or GCC configured with OpenGL/GLUT libraries.
 * Windows OS (for `PlaySound` support).
 
-### Compilation Instructions (GCC / MinGW)
-```bash
-g++ main.cpp -o IdrakpurFort -lfreeglut -lopengl32 -lglu32 -lwinmm
-./IdrakpurFort
+

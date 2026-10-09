@@ -18,13 +18,14 @@ A 2D computer graphics simulation of the historical **Idrakpur Fort** created us
 
 ## ✨ Features
 
-* **Architectural Modeling**: Recreation of Idrakpur Fort body, battlements, and windows using geometric primitives (quadrilaterals, polygons, lines, and circles).
-* **Day & Night Toggle**: Dynamic scene color shifts, sun/moon toggling, and illuminated windows during night mode.
-* **Dynamic Animations**:
-  * Continuous cloud movement
-  * Horizontally moving car and boat
-  * Animated falling rain particles
-* **Audio Integration**: Background sound using Windows `PlaySound` API.
+* **Architectural Modeling**: Recreation of Idrakpur Fort using geometric primitives such as quadrilaterals, polygons, lines, and circles.
+* **Day & Night Toggle**: Switch between day and night environments with corresponding changes to the sky, sun/moon, and illuminated windows.
+* **Interactive Controls**:
+  * **Boat Speed Control**: Increase or decrease the movement speed of the boat using keyboard controls.
+  * **Cloud Speed Control**: Adjust the movement speed of clouds interactively.
+  * **Car Speed Control**: Adjust the movement speed of the moving car.
+  * **Rain Toggle**: Turn the animated rain effect on or off using the keyboard.
+* **Audio Integration**: Background sound is integrated into the environment.
 
 ---
 
